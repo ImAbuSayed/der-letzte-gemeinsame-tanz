@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Der letzte gemeinsame Tanz
+
+This log tracks the cryptographic history and versioning for the song **Der letzte gemeinsame Tanz** (der-letzte-gemeinsame-tanz).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T22:37:01.320458 | `v1` | `1e6acf3ff25642ad242ab3be77e36d6464095b8734958b2a21747837b6a19c38` | `41e5b949bf77312e349caee08482cb0711923699a4199c17904b051547d1a2d0` | `2026-06-30_der-letzte-gemeinsame-tanz-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

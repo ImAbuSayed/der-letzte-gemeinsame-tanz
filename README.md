@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/der-letzte-gemeinsame-tanz/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Der letzte gemeinsame Tanz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-gemeinsame-tanz/) |
+| **Get License** | [Get License For Der letzte gemeinsame Tanz](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/der-letzte-gemeinsame-tanz/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1e6acf3ff25642ad242ab3be77e36d6464095b8734958b2a21747837b6a19c38` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
